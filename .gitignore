@@ -1,0 +1,7 @@
+javaNats/*
+kafka_2.13-3.9.0/*
+nats/*
+
+!javaNats
+!javaNats/javanats/src
+!javaNats/javanats/pom.xml
